@@ -7,5 +7,5 @@ fun main(){
     
     var U:String ="Wtf vig"
 var i:Int=100
-    println("My name is ${i/4}")// used for concatenating/using integers with String 
+    println("My name is ${i/4}")// String Interpolation
 }
